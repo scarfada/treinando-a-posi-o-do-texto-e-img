@@ -1,0 +1,15 @@
+<a href="https://www.4devs.com.br/gerador_de_texto_lorem_ipsum"> gerador de text lorem ipsum</a></p>
+   
+
+   <! -– essa tag vai direcionar p site de gerador de texto lorem ipsum -–>
+
+   criando uma class dentro do img
+   <img src="img/1_k_JNov58h2xozZIFFIlvfQ-removebg-preview.png" class="img-css"alt="logo do css">
+   percebe se que a class vem dps da img
+
+   width: 700px; pra comprimir o texto
+   margin: auto p centralizar o texto
+
+   p{
+  line-height: 1.5;
+} signiffica o espaçamento das linhas do meu texto
