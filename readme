@@ -1,3 +1,4 @@
+/*
 <a href="https://www.4devs.com.br/gerador_de_texto_lorem_ipsum"> gerador de text lorem ipsum</a></p>
    
 
@@ -11,5 +12,30 @@
    margin: auto p centralizar o texto
 
    p{
-  line-height: 1.5;
-} signiffica o espaçamento das linhas do meu texto
+  line-height: 1.5; signiffica o espaçamento das linhas do meu texto
+  border-bottom: 2px solid; p dar uma linha nos parágrafos}
+
+/* unvisited link */
+a:link {
+  color: green;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link  */
+a:hover {
+  color: red; 
+}
+
+/* selected link */
+a:active {
+  color: yellow;
+}
+a:hover {
+  background-color: yellow;
+} */
+
+background-attachment: fixed; p img do background fixar a parte de cima
